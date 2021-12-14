@@ -1,0 +1,17 @@
+C:\Projetos-ASPNET-Core\EcommerceDDD\EcommerceDDD\ApplicationApp\bin\Debug\net5.0\ApplicationApp.deps.json
+C:\Projetos-ASPNET-Core\EcommerceDDD\EcommerceDDD\ApplicationApp\bin\Debug\net5.0\ApplicationApp.dll
+C:\Projetos-ASPNET-Core\EcommerceDDD\EcommerceDDD\ApplicationApp\bin\Debug\net5.0\ref\ApplicationApp.dll
+C:\Projetos-ASPNET-Core\EcommerceDDD\EcommerceDDD\ApplicationApp\bin\Debug\net5.0\ApplicationApp.pdb
+C:\Projetos-ASPNET-Core\EcommerceDDD\EcommerceDDD\ApplicationApp\bin\Debug\net5.0\Domain.dll
+C:\Projetos-ASPNET-Core\EcommerceDDD\EcommerceDDD\ApplicationApp\bin\Debug\net5.0\Entities.dll
+C:\Projetos-ASPNET-Core\EcommerceDDD\EcommerceDDD\ApplicationApp\bin\Debug\net5.0\Domain.pdb
+C:\Projetos-ASPNET-Core\EcommerceDDD\EcommerceDDD\ApplicationApp\bin\Debug\net5.0\Entities.pdb
+C:\Projetos-ASPNET-Core\EcommerceDDD\EcommerceDDD\ApplicationApp\obj\Debug\net5.0\ApplicationApp.csproj.AssemblyReference.cache
+C:\Projetos-ASPNET-Core\EcommerceDDD\EcommerceDDD\ApplicationApp\obj\Debug\net5.0\ApplicationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos-ASPNET-Core\EcommerceDDD\EcommerceDDD\ApplicationApp\obj\Debug\net5.0\ApplicationApp.AssemblyInfoInputs.cache
+C:\Projetos-ASPNET-Core\EcommerceDDD\EcommerceDDD\ApplicationApp\obj\Debug\net5.0\ApplicationApp.AssemblyInfo.cs
+C:\Projetos-ASPNET-Core\EcommerceDDD\EcommerceDDD\ApplicationApp\obj\Debug\net5.0\ApplicationApp.csproj.CoreCompileInputs.cache
+C:\Projetos-ASPNET-Core\EcommerceDDD\EcommerceDDD\ApplicationApp\obj\Debug\net5.0\ApplicationApp.csproj.CopyComplete
+C:\Projetos-ASPNET-Core\EcommerceDDD\EcommerceDDD\ApplicationApp\obj\Debug\net5.0\ApplicationApp.dll
+C:\Projetos-ASPNET-Core\EcommerceDDD\EcommerceDDD\ApplicationApp\obj\Debug\net5.0\ref\ApplicationApp.dll
+C:\Projetos-ASPNET-Core\EcommerceDDD\EcommerceDDD\ApplicationApp\obj\Debug\net5.0\ApplicationApp.pdb

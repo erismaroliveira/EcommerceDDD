@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bb86a531-fa81-418c-bd30-665b28a49229": {
+      "ProjectGuid": "bb86a531-fa81-418c-bd30-665b28a49229",
+      "DisplayName": "ApplicationApp",
+      "ColorIndex": 0
+    },
+    "d2ab980e-c779-468a-af82-0c9ebf02e408": {
+      "ProjectGuid": "d2ab980e-c779-468a-af82-0c9ebf02e408",
+      "DisplayName": "Infrastructure",
+      "ColorIndex": 1
+    },
+    "e9740525-6779-4b04-b6c7-d54464eba77d": {
+      "ProjectGuid": "e9740525-6779-4b04-b6c7-d54464eba77d",
+      "DisplayName": "Web_ECommerce",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
